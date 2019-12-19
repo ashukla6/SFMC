@@ -31,24 +31,24 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "c142e588-0ec8-4604-ada4-3de7a98062da",
       "save": {
-        "url": "https://<your-domain-here>/journeybuilder/save",
+        "url": "https://https://mc.s7.exacttarget.com/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://<your-domain-here>/journeybuilder/publish",
+        "url": "https://https://mc.s7.exacttarget.com/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://<your-domain-here>/journeybuilder/stop",
+        "url": "https://https://mc.s7.exacttarget.com/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://<your-domain-here>/journeybuilder/validate",
+        "url": "https://https://mc.s7.exacttarget.com/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
